@@ -1,0 +1,13 @@
+# Ignore the virtual environment
+venv/
+.venv/
+ENV/
+
+# Ignore python cache files
+__pycache__/
+*.pyc
+
+recyclebin
+
+models/rf_demand_model.pkl
+data.csv
